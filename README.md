@@ -4,7 +4,7 @@ I'm a Business Analytics graduate student at the National University of Singapor
 
 ---
 
-## 🔧⛏️ What I'm Working On
+## ⛏️ What I'm Working On
 
 - Pursuing my **Master of Science in Business Analytics (MSBA)** at NUS, graduating June 2026
 - Building projects that invloves **AI, data analytics, and business decision-making**
