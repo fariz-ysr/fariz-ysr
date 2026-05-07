@@ -18,7 +18,7 @@ I'm a Business Analytics graduate student at the National University of Singapor
 `Python` `SQL` `R`
 
 **Data Science & ML**
-`scikit-learn` `PyTorch` `pandas` `NumPy` `Matplotlib` `Spark`
+`scikit-learn` `PyTorch` `pandas` `NumPy` `Matplotlib`
 
 **AI & GenAI**
 `LangChain` `RAG` `LLM` `Pydantic`
